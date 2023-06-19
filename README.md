@@ -1,7 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/83/79/4d/83794d5db3fca1ced8cdce78f5cdab6c.jpg)](https://kittensgit.github.io)
-<h1 align="center">Hi 👋, I'm Nika</h1>
+<h1 align="center">Hi, I'm Nika</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
-<img align='right' width='400' alt='anime'  src='https://i.pinimg.com/originals/40/18/e5/4018e538ae24f46d1962097ad08e3ded.gif' >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kittensgit&label=Profile%20views&color=0e75b6&style=flat" alt="kittensgit" /> </p>
 
