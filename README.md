@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Nika</h1>
+<h1 align="center">Hi, I'm Nika <img align='center' width='80' src='https://i.pinimg.com/originals/99/74/cd/9974cd41cc1c45a1e5f664e625c2ea36.gif'/> </h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kittensgit&label=Profile%20views&color=0e75b6&style=flat" alt="kittensgit" /> </p>
 
