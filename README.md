@@ -43,16 +43,20 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-    ![Snake animation](https://github.com/kittensgit/kittensgit/blob/output/github-contribution-grid-snake.svg)
-  <br/><br/><br/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div style="display: flex; align-items: center;">
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dark&preferLogin=false">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kittensgit?cardType=level-alternate&theme=dark&preferLogin=false" alt="kittensgit's GitHub Stats" />
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittensgit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
+<br/><br/>
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kittensgit&show_icons=true&locale=en&layout=compact" alt="kittensgit" /></p>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kittensgit&show_icons=true&locale=en" alt="kittensgit" /></p>
-
+<br/>
