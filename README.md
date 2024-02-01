@@ -49,7 +49,6 @@
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dark&preferLogin=false">
         <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kittensgit?cardType=level-alternate&theme=dark&preferLogin=false" alt="kittensgit's GitHub Stats" />
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittensgit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 <br/><br/>
